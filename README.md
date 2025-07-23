@@ -7,7 +7,7 @@ Soy un apasionado por el desarrollo backend con sólida experiencia en Java y el
 
 ## 🙋‍♂️ About Me
 - 🧑‍💻 Desarrollador Backend especializado en Java & Spring Boot
-- 🏗️ Experto en construcción de APIs REST escalables y seguras
+- 🏗️ Sólida experiencia en construcción de APIs REST escalables y seguras
 - 🎯 Enfocado en arquitectura limpia y buenas prácticas
 - 🌱 Actualmente profundizando en microservicios
 - 🤝 Abierto a colaboraciones y nuevos desafíos
