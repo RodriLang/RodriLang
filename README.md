@@ -135,3 +135,96 @@ Soy un apasionado por el desarrollo backend con sólida experiencia en Java y el
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+
+
+# Rodrigo Lang
+
+Backend Developer specialized in **Java and the Spring ecosystem**, focused on building **scalable REST APIs and microservices**.
+
+Currently working as **Associate Software Engineer at GlobalLogic**, contributing to the maintenance and evolution of backend services in production environments.
+
+I am particularly interested in **backend architecture, distributed systems and clean API design**.
+
+---
+
+## Tech Stack
+
+### Backend
+Java  
+Spring Boot  
+Spring Security  
+Spring Data JPA  
+Hibernate  
+
+### Architecture
+REST API Design  
+Microservices  
+Layered Architecture  
+DTO Pattern  
+Exception Handling  
+Input Validation  
+
+### Databases
+MySQL  
+PostgreSQL  
+
+### DevOps & Tools
+Git  
+Maven  
+Docker  
+Jenkins  
+OpenShift  
+SonarQube  
+Postman  
+
+### Workflow
+Agile  
+Scrum  
+Kanban  
+Jira  
+
+---
+
+## Featured Project
+
+### Dinno – Restaurant Ordering Platform
+
+Full stack web application designed to improve restaurant service using **QR based table sessions**.
+
+Customers scan a QR code, join a table session and place orders directly from their phone.
+
+**Key Features**
+
+- QR based table sessions
+- Shared orders per table
+- Individual or group payments
+- Order tracking
+
+**Stack**
+
+Backend  
+Spring Boot  
+REST API  
+
+Frontend  
+Angular  
+
+Database  
+MySQL  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RodriLang&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriLang&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## Contact
+
+LinkedIn  
+https://linkedin.com/in/rodrilang
