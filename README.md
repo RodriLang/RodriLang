@@ -1,72 +1,81 @@
-# 👋 ¡Hola! Soy **Rodrigo Lang**
-## 🚀 Desarrollador Backend | Java & Spring Boot
+# Rodrigo Lang
 
-Soy un apasionado por el desarrollo backend con sólida experiencia en Java y el ecosistema Spring. Me enfoco en construir APIs REST seguras, escalables y bien estructuradas. Estoy en constante formación y busco oportunidades para seguir creciendo en el mundo del desarrollo de software.
+Backend Developer specialized in **Java and the Spring ecosystem**, focused on building **scalable REST APIs and microservices**.
 
----
+Currently working as **Associate Software Engineer at GlobalLogic**, contributing to backend services in production environments.
 
-## 🙋‍♂️ About Me
-- 🧑‍💻 Desarrollador Backend especializado en Java & Spring Boot
-- 🏗️ Sólida experiencia en construcción de APIs REST escalables y seguras
-- 🎯 Enfocado en arquitectura limpia y buenas prácticas
-- 🌱 Actualmente profundizando en microservicios
-- 🤝 Abierto a colaboraciones y nuevos desafíos
+I’m particularly interested in **backend architecture, distributed systems and clean API design**.
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Technologies & Tools
 
-### 💻 **Lenguajes**
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🖥️ **Frameworks**
+### 🖥️ Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-### 🗃️ **Bases de Datos**
+### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 **Herramientas**
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-### 🔗 **APIs & Arquitectura**
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+### 🔗 APIs & Architecture
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
 
 ---
 
-## 🧩 Proyectos Destacados
+## 🧩 Featured Projects
 
-### 🎾 **Tennis Tournaments API**
-> API REST completa para gestión de torneos de tenis
-- ⚡ **Características**: Lógica de rondas, emparejamientos automáticos, sistema de clasificación
-- 🛠️ **Stack**: Spring Boot, Spring Security, JWT, JPA, MySQL, MapStruct
-- 🔗 **Repo**: [Ver proyecto](https://github.com/RodriLang/tennis-tournaments-API)
+### 🍽️ Dinno – Restaurant Ordering Platform
+> Web application designed to improve the restaurant ordering experience using **QR-based table sessions**.
 
-### 🍽️ **Food Ordering API**
-> Sistema de pedidos de comida con roles diferenciados
-- ⚡ **Características**: Gestión de roles (CLIENT, GUEST, ADMIN), procesamiento de pedidos
+- ⚡ **Features**: table sessions, shared orders, bill splitting, order tracking
+- 🛠️ **Stack**: Angular, Spring Boot, REST API, MySQL
+- 🔗 **Repo**: https://github.com/RodriLang/dinno
+
+---
+
+### 🎾 Tennis Tournaments API
+> REST API for managing tennis tournaments.
+
+- ⚡ **Features**: round generation, automatic match pairing, player ranking
 - 🛠️ **Stack**: Spring Boot, Spring Security, JWT, JPA, MySQL
-- 🔗 **Repo**: [Ver proyecto](https://github.com/RodriLang/food-ordering-API)
+- 🔗 **Repo**: https://github.com/RodriLang/tennis-tournaments-API
 
-### 🧮 **Calculadora de Calorías**
-> Aplicación para registro nutricional y cálculo de calorías
-- ⚡ **Características**: Registro de alimentos, cálculos nutricionales, validaciones robustas
+---
+
+### 🧮 Calorie Calculator
+> Application for nutritional tracking and calorie calculation.
+
+- ⚡ **Features**: food registration and nutritional calculations
 - 🛠️ **Stack**: Java, Spring Boot, Maven
-- 🔗 **Repo**: [Ver proyecto](https://github.com/RodriLang/calorie-calculator)
+- 🔗 **Repo**: https://github.com/RodriLang/calorie-calculator
 
-### 🌍 **Translation Projects API**
-> Gestión de proyectos de traducción y asignación de traductores
-- ⚡ **Características**: Asignación automática, seguimiento de progreso, gestión de usuarios
+---
+
+### 🌍 Translation Projects API
+> API for managing translation projects and translator assignments.
+
+- ⚡ **Features**: automatic assignment, progress tracking
 - 🛠️ **Stack**: Spring Boot, Spring Security, JWT, JPA, MySQL
-- 🔗 **Repo**: [Ver proyecto](https://github.com/RodriLang/mvp-translation-project)
+- 🔗 **Repo**: https://github.com/RodriLang/mvp-translation-project
 
 ---
 
@@ -78,153 +87,15 @@ Soy un apasionado por el desarrollo backend con sólida experiencia en Java y el
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriLang&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RodriLang&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 🎯 Actualmente
-
-- 🌱 Profundizando en arquitectura de **microservicios**
-- 👨‍💻 Desarrollando proyectos con **Spring Security + JWT**
-- 🔍 Explorando **Docker** y **containerización**
-- 🤝 Abierto a colaborar en proyectos **backend**
-- 💬 Pregúntame sobre **Java**, **Spring Boot**, **REST APIs** o **bases de datos**
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 📫 Conectemos
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rodrilang/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rodrigolang90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/RodriLang">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriLang&theme=radical"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RodriLang&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
-### 🙌 ¡Gracias por visitar mi perfil!
-
-<p align="center">
-  <i>"Construyendo APIs escalables, limpias y seguras. Siempre listo para el próximo desafío."</i>
-</p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
-
-# Rodrigo Lang
-
-Backend Developer specialized in **Java and the Spring ecosystem**, focused on building **scalable REST APIs and microservices**.
-
-Currently working as **Associate Software Engineer at GlobalLogic**, contributing to the maintenance and evolution of backend services in production environments.
-
-I am particularly interested in **backend architecture, distributed systems and clean API design**.
-
----
-
-## Tech Stack
-
-### Backend
-Java  
-Spring Boot  
-Spring Security  
-Spring Data JPA  
-Hibernate  
-
-### Architecture
-REST API Design  
-Microservices  
-Layered Architecture  
-DTO Pattern  
-Exception Handling  
-Input Validation  
-
-### Databases
-MySQL  
-PostgreSQL  
-
-### DevOps & Tools
-Git  
-Maven  
-Docker  
-Jenkins  
-OpenShift  
-SonarQube  
-Postman  
-
-### Workflow
-Agile  
-Scrum  
-Kanban  
-Jira  
-
----
-
-## Featured Project
-
-### Dinno – Restaurant Ordering Platform
-
-Full stack web application designed to improve restaurant service using **QR based table sessions**.
-
-Customers scan a QR code, join a table session and place orders directly from their phone.
-
-**Key Features**
-
-- QR based table sessions
-- Shared orders per table
-- Individual or group payments
-- Order tracking
-
-**Stack**
-
-Backend  
-Spring Boot  
-REST API  
-
-Frontend  
-Angular  
-
-Database  
-MySQL  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RodriLang&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriLang&layout=compact&theme=radical"/>
-</p>
-
----
-
-## Contact
+## 📫 Contact
 
 LinkedIn  
 https://linkedin.com/in/rodrilang
+
+GitHub  
+https://github.com/RodriLang
